@@ -6,7 +6,7 @@
 ### Установка и запуск
 1. Клонировать репозиторий и перейти в него в командной строке:
    #### git clone git@github.com:Tleuberdina/parser_url_emails_phones.git
-   #### cd saucedemo_effective_project
+   #### cd parser_url_emails_phones
 3. Cоздать и активировать виртуальное окружение:
    #### python -m venv venv
    #### source venv/Scripts/activate
